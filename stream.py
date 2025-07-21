@@ -10,8 +10,8 @@ from pycoral.utils.edgetpu import run_inference
 
 # Define paths to model and label directories
 default_path = 'models' # location of model weights and labels
-model_name = 'helov1_efficientdet0_edgetpu.tflite'
-label_name = 'ewasp_label.txt'
+model_name = 'efficientdet0_edgetpu.tflite'
+label_name = 'labels.txt'
 
 model_path = default_path + "/" + model_name
 label_path = default_path + "/" + label_name

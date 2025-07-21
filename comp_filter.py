@@ -3,7 +3,7 @@ MIT BWSI Autonomous RACECAR
 MIT License
 racecar-neo-summer-labs
 
-File Name: lab_2a.py
+File Name: comp_filter.py
 
 Title: BYOA (Build Your Own AHRS)
 
